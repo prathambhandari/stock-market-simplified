@@ -8,12 +8,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-geist-sans)'],
+        sans: ['var(--font-inter)', 'sans-serif'],
         mono: ['var(--font-geist-mono)'],
       },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#bef264", // Replace this with your custom color hex, RGB, or HSL
       },
       keyframes: {
         shimmer: {
