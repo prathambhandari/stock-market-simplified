@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
 
         <Link href="https://course.prathambhandari.com/">
 
-          <div className="flex items-center justify-center flex-col fixed bottom-24 right-0 -translate-x-10 w-fit rounded-full z-50 bg-primary drop-shadow-lg border-2 border-neutral-950 p-4">
+          <div className="flex items-center justify-center flex-col fixed bottom-12 right-0 -translate-x-10 w-fit rounded-full z-50 bg-primary drop-shadow-lg border-2 border-neutral-950 p-4">
 
             {/* <div className='text-base  font-bold text-neutral-900'>
               Start Journey

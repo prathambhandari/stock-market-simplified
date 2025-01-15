@@ -10,11 +10,11 @@ export default function HeroSection() {
                 <div className="*:z-20  relative">
                     <h1 className="text-2xl font-semibold text-neutral-900 leading-normal mb-2 font-mono">Take Control of Your Financial Journey Today for <span className=" font-medium    decoration decoration-wavy underline-offset-4 ">Just ₹499!</span></h1>
                     <h1 className="text-lg font-normal tracking-wider  text-neutral-800  mb-3 w-10/12 leading-normal">With Proven strategies and immediate results at a fraction of the price.<br />  </h1>
-                    <div className="border-t-2 border-dashed  border-primary pt-2 w-fit">
-                        <h6 className="text-sm mb-3 text-neutral-800">* Save 80% Off Competitor Pricing. Limited Time Offer! </h6>
+                    <div className="border-t-2 border-dashed  border-primary pt-2 w-full">
+                        <h6 className="text-sm mb-3 text-neutral-800">* Save 80% Off Competitor Pricing.  </h6>
 
                         <Link href="https://course.prathambhandari.com/">
-                            <button className="relative overflow-hidden dark:bg-neutral-950 bg-white dark:text-white text-neutral-950 dark:t rounded-lg px-4 py-2 text-base font-normal tracking-wide transition-all duration-75 ease-in-out drop-shadow hover:drop-shadow-md hover:scale-105 group transform-gpu ">
+                            <button className="w-full sm:w-full md:w-fit lg:w-fit xl:w-fit relative overflow-hidden dark:bg-neutral-950 bg-white dark:text-white text-neutral-950 dark:t rounded-lg px-4 py-3 text-base font-normal tracking-wide transition-all duration-75 ease-in-out drop-shadow hover:drop-shadow-md hover:scale-105 group transform-gpu ">
                                 <div className="flex flex-row items-center justify-center">
                                     <span className="relative z-10  flex flex-row text-base">Enroll Now </span>
                                     <RiArrowRightLine className="ms-2 z-30 text-lg" />
