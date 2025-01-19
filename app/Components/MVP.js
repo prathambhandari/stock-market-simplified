@@ -8,9 +8,9 @@ export default function MVP() {
                     <div className=" flex flex-col items-start justify-start  ">
                         <div className="flex flex-col items-start  justify-center mb-2">
                             <RiMoneyRupeeCircleLine className=" h-28 w-28 text-neutral-500  mb-4" />
-                            <h1 className="text-2xl font-semibold  text-neutral-600 dark:text-primary tracking-wide leading-normal">Unlock the Full Course for Only ₹499 – Save Over 80% Compared to Other Platforms!</h1>
+                            <h1 className="text-2xl font-semibold  text-neutral-600 dark:text-primary tracking-wide leading-normal">Unlock the Full Course for Only ₹449 – Save Over 80% Compared to Other Platforms!</h1>
                         </div>
-                        <h1 className="text-base font-normal text-neutral-600 dark:text-neutral-400  tracking-wide leading-loose">Why pay ₹8999/- or more for the same stock market knowledge when you can learn from experts at a fraction of the cost? Our course offers the same value at an unbeatable price. For just ₹499, you’ll gain access to actionable strategies, expert insights, and a community of learners, making it the best value around.</h1>
+                        <h1 className="text-base font-normal text-neutral-600 dark:text-neutral-400  tracking-wide leading-loose">Why pay ₹7999/- or more for the same stock market knowledge when you can learn from experts at a fraction of the cost? Our course offers the same value at an unbeatable price. For just ₹449, you’ll gain access to actionable strategies, expert insights, and a community of learners, making it the best value around.</h1>
 
                     </div>
                 </div>

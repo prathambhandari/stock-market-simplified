@@ -8,7 +8,7 @@ export default function HeroSection() {
             <div className="bg-primary flex flex-col items-start  relative col-span-1 sm:col-span-1 md:col-span-1 lg:col-span-3 xl:col-span-3 drop-shadow h-fit overflow-hidden group  ease-in-out duration-300">
 
                 <div className="*:z-20  relative">
-                    <h1 className="text-2xl font-semibold text-neutral-900 leading-normal mb-2 font-mono">Take Control of Your Financial Journey Today for <span className=" font-medium    decoration decoration-wavy underline-offset-4 ">Just ₹499!</span></h1>
+                    <h1 className="text-2xl font-semibold text-neutral-900 leading-normal mb-2 font-mono">Take Control of Your Financial Journey Today for <span className=" font-medium    decoration decoration-wavy underline-offset-4 ">Just ₹449!</span></h1>
                     <h1 className="text-lg font-normal tracking-wider  text-neutral-800  mb-3 w-10/12 leading-normal">With Proven strategies and immediate results at a fraction of the price.<br />  </h1>
                     <div className="border-t-2 border-dashed  border-primary pt-2 w-full">
                         <h6 className="text-sm mb-3 text-neutral-800">* Save 80% Off Competitor Pricing.  </h6>
