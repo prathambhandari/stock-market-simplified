@@ -14,7 +14,7 @@ export default function Home() {
       <About />
       {/* <MVP /> */}
 
-      <div className="bg-neutral-900   flex flex-col items-center p-8 ">
+      <div className="bg-neutral-900 bg-noise flex flex-col items-center p-8 ">
         <RiBookOpenFill className=" h-12 w-12  text-primary mb-4" />
         <div className=" font-normal tracking-wide text-neutral-400 leading-normal  flex flex-col items-center justify-center ">
           <h1 className="text-lg font-medium mb-2 text-neutral-300 text-center">Ready to Start Building Wealth Today?</h1>
