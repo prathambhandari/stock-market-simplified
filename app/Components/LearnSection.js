@@ -9,7 +9,7 @@ export default function LearnSection() {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-3 xl:grid-cols-3 gap-4   ">
                 {
                     data?.map((item, id) => (
-                        <div className=" bg-white dark:bg-neutral-900  rounded-2xl p-6 h-full drop-shadow-sm hover:drop-shadow cursor-pointer relative" key={id}>
+                        <div className=" bg-white dark:bg-neutral-900 bg-noise rounded-2xl p-6 h-full drop-shadow-sm hover:drop-shadow cursor-pointer relative" key={id}>
                             <RiStockLine className=" h-36 w-36 text-neutral-400/10 dark:text-neutral-700/20 absolute bottom-0 right-0 z-0" />
 
                             <h3 className=" text-md font-semibold  text-neutral-800 dark:text-neutral-800 mb-4  p-3 bg-primary z-30 rounded-2xl h-6 w-6 flex items-center justify-center">{id + 1}</h3>
