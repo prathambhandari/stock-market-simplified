@@ -5,6 +5,7 @@ import { RiApps2Line, RiCloseLargeFill } from "react-icons/ri";
 import "./globals.css";
 import Link from 'next/link';
 import { useState } from "react";
+import Head from "next/head";
 
 
 
