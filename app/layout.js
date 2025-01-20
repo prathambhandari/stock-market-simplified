@@ -30,6 +30,10 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
+      <Head>
+        <title>Pratham Bhandari</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <body className={`${inter.variable} ${geistMono.variable} antialiased bg-neutral-100 dark:bg-neutral-950`}>
 
         <main className="max-w-screen-lg  mx-auto p-4 sm:p-4 md:p-8 lg:p-8 xl:p-8 ">
