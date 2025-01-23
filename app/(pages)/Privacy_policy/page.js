@@ -100,6 +100,7 @@ export default function PrivacyPolicy() {
                 <ul className="list-decimal list-inside text-neutral-600 mt-2 space-y-1">
                     <li>Email: <strong>support@prathambhandari.com</strong></li>
                     <li>Website: <strong>prathambhandari.com</strong></li>
+                    <li className= "text-xs">Kordel house, Tenkayedapadavu ,Dakshina kannada,Karnataka,574144 </li>
                 </ul>
             </section>
         </div>
