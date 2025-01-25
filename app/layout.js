@@ -6,6 +6,7 @@ import "./globals.css";
 import Link from 'next/link';
 import { useState } from "react";
 import Head from "next/head";
+import { Analytics } from "@vercel/analytics/react"
 
 
 
@@ -35,6 +36,7 @@ export default function RootLayout({ children }) {
         <title>Pratham Bhandari</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Analytics/>
       <body className={`${inter.variable} ${geistMono.variable} antialiased bg-neutral-100 dark:bg-neutral-950`}>
 
         <main className="max-w-screen-lg  mx-auto p-4 sm:p-4 md:p-8 lg:p-8 xl:p-8 ">
