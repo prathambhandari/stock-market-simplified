@@ -7,7 +7,7 @@ export default function HeaderSection() {
             {/* Logo Section */}
             <div className="flex items-center">
                 <img 
-                    src="/assets/pb.png" 
+                    src="/assets/Pb.png" 
                     alt="Logo" 
                     className="h-10" // Adjust logo size as needed
                 />
