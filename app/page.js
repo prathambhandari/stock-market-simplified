@@ -2,15 +2,19 @@ import Link from "next/link";
 import About from "./Components/About";
 import HeroSection from "./Components/HeroSection";
 import LearnSection from "./Components/LearnSection";
+
 import MVP from "./Components/MVP";
 import { RiMoneyRupeeCircleFill, RiMoneyEuroCircleFill, RiGroup3Fill, RiBookOpenFill, RiStockLine, RiUserStarLine } from "react-icons/ri";
+import HeaderSection from "./Components/HeaderSection";
 
 
 export default function Home() {
 
   return (
     <>
-      <HeroSection />
+
+      <HeaderSection />
+      <HeroSection />  
       <LearnSection />
       <About />
       {/* <MVP /> */}
