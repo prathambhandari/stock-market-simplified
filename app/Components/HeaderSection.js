@@ -15,7 +15,7 @@ export default function HeaderSection() {
 
             {/* Link Section */}
             <div className="flex items-center">
-                <Link href="https://course.prathambhandari.com/" className= "dark:text-white text-lime-300 font-semibold hover:underline">
+                <Link href="https://course.prathambhandari.com/" className= "dark:text-white text-neutral-900 font-semibold hover:underline">
                     Courses
                 </Link>
             </div>

@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
 
-      <HeaderSection />
+      <HeaderSection/>
       <HeroSection />  
       <LearnSection />
       <About />
