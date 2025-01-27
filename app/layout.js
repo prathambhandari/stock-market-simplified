@@ -16,10 +16,10 @@ const geistMono = Geist_Mono({
 });
 
 const inter = Inter({
-  subsets: ['latin'], // You can add 'latin-ext' or other subsets as needed
-  weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'], // Load all weights
-  variable: '--font-inter', // Optional CSS variable
-  display: 'swap', // Improves performance by using fallback fonts until the font loads
+  subsets: ['latin'],
+  weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
+  variable: '--font-inter',
+  display: 'swap',
 });
 
 export default function RootLayout({ children }) {
@@ -36,7 +36,7 @@ export default function RootLayout({ children }) {
         <title>Pratham Bhandari</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Analytics/>
+      <Analytics />
       <body className={`${inter.variable} ${geistMono.variable} antialiased bg-neutral-100 dark:bg-neutral-950`}>
 
         <main className="max-w-screen-lg  mx-auto p-4 sm:p-4 md:p-8 lg:p-8 xl:p-8 ">
