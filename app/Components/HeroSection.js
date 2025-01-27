@@ -68,7 +68,7 @@ export default function HeroSection() {
 
                     <div className="border-t-2 border-dashed border-primary pt-2 w-full">
                         <h6 className="text-sm mb-3 text-neutral-800 pb-2">
-                            * Save 80% Off Competitor Pricing.{" "}
+                            * Save 94% Off Competitor Pricing.{" "}
                         </h6>
 
                         <div className="bg-black bg-opacity-60  text-white p-2  animate-bounce rounded-lg max-w-[220px] text-center">
