@@ -73,7 +73,7 @@ export default function HeroSection() {
                         </h6>
 
                         <h1 className="text-l font-medium text-neutral-900 leading-normal mb-2 font-mono ">
-                        🎉 Early Bird Offer! First 50 learners get the course for just ₹198 (instead of ₹449)!
+                        🎉 Early Bird Offer! Only 12 spots left, Learners get the course for just ₹198 (instead of ₹449)!
                           </h1>
                           <h1 className="text-l font-medium text-neutral-900 leading-normal mb-2 font-mono pb-8">
                         🏷️ Use Code: "<span className="font-bold font-sans"> FIRST50 </span>" at Checkout. Hurry! Limited Spots!
