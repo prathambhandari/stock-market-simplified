@@ -26,10 +26,6 @@ export const FAQData = [
         answer: 'The course is primarily in Hindi.'
     },
     {
-        question: 'Can I get a refund if I don’t like the course?',
-        answer: 'We do not offer refunds once the course is purchased. However, in case of duplicate payments due to technical errors, we will refund the duplicate amount after verification.'
-    },
-    {
         question: 'How do I enroll in the course?',
         answer: `Enrolling is simple!\n\n1. Visit course.prathambhandari.com.\n2. Click on the “Enroll Now” button.\n3. Complete your payment of ₹449.\n4. You’ll get instant access to the course!`
     }
