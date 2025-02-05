@@ -44,16 +44,16 @@ export default function HeroSection() {
         <div className="*:rounded-2xl *:p-5 grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-4 z-50">
             <div className="bg-noise bg-primary flex flex-col items-start relative col-span-1 sm:col-span-1 md:col-span-1 lg:col-span-3 xl:col-span-3 drop-shadow h-fit overflow-hidden group ease-in-out duration-300">
                 {/* Image Section */}
-             {/*  <div
-                    className="relative w-full h-48 lg:h-[50vh] overflow-hidden pb-8 bg-black rounded-2xl"
+              {/* <div
+                    className="relative w-full h-48 lg:h-[50vh]  overflow-hidden pb-8 bg-black rounded-2xl"
                     style={{
                         backgroundImage: "url('/assets/thumbnail.png')",
-                        backgroundSize: "contain",
+                        backgroundSize: "cover",
                         backgroundPosition: "center",
                         backgroundRepeat: "no-repeat",
                     }}
-                ></div>
-                 */} 
+                ></div> */}
+                 
 
                 <div className="*:z-20 relative">
                     <h1 className="text-2xl font-semibold text-neutral-900 leading-normal mb-2 font-mono pt-8">
@@ -67,7 +67,7 @@ export default function HeroSection() {
                         <br />
                     </h1>
 
-                    <div className="border-t-2 border-dashed border-primary pt-2 w-full">
+                    <div className="border-t-2 border-dashed border-primary pt-2 w-full" >
                         <h6 className="text-sm mb-3 text-neutral-800 pb-2">
                             * Save 94% Off Competitor Pricing.{" "}
                         </h6>

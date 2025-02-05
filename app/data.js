@@ -29,4 +29,24 @@ export const FAQData = [
         question: 'How do I enroll in the course?',
         answer: `Enrolling is simple!\n\n1. Visit course.prathambhandari.com.\n2. Click on the “Enroll Now” button.\n3. Complete your payment of ₹449.\n4. You’ll get instant access to the course!`
     }
+]
+
+export const  Reviews = [
+    {
+        name :'Amit Verma',
+        rating: 5,
+        comment: 'I always wanted to invest but was scared of losing money. This course explained everything in such simple terms that I finally took my first step. Now, I understand how stocks work. Definitely worth it!',
+    },
+    {
+        name :'Neha Gupta',
+        rating: 5,
+        comment: 'Everything is explained in simple language, and I finally know how to invest ',
+    },
+    {
+        name :'Anuj Yadav',
+        rating: 4,
+        comment: 'Really helpful course! It cleared a lot of my doubts, Easy to follow and well-structured. ',
+    },
+ 
+ 
 ];

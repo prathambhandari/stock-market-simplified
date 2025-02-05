@@ -7,6 +7,7 @@ import MVP from "./Components/MVP";
 import { RiMoneyRupeeCircleFill, RiMoneyEuroCircleFill, RiGroup3Fill, RiBookOpenFill, RiStockLine, RiUserStarLine } from "react-icons/ri";
 import HeaderSection from "./Components/Header";
 import FAQ from "./Components/FAQ";
+import ReviewSection from "./Components/Review";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       {/* <HeaderSection /> */}
       <HeroSection />
       <LearnSection />
+      <ReviewSection/>
       <About />
       {/* <MVP /> */}
       <FAQ />

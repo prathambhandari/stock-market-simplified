@@ -54,6 +54,7 @@ export default function TermsAndConditions() {
                         The course provider is not responsible for any financial decisions or outcomes resulting from the application of course content.
                     </li>
                     <li>Always consult a certified financial advisor before making investment decisions.</li>
+                    <li>The reviews and testimonials featured on this page reflect the personal experiences of individuals. Results may vary, and success in the stock market depends on various factors, including market conditions and individual effort. These testimonials do not guarantee similar results for all users.</li>
                 </ul>
             </section>
 
