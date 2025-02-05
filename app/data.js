@@ -44,7 +44,7 @@ export const  Reviews = [
     },
     {
         name :'Anuj Yadav',
-        rating: 4,
+        rating: 5,
         comment: 'Really helpful course! It cleared a lot of my doubts, Easy to follow and well-structured. ',
     },
  
