@@ -38,12 +38,12 @@ export const  Reviews = [
         comment: 'I always wanted to invest but was scared of losing money. This course explained everything in such simple terms that I finally took my first step. Now, I understand how stocks work. Definitely worth it!',
     },
     {
-        name :'Neha Gupta',
+        name :'Sujith Shetty',
         rating: 5,
         comment: 'Everything is explained in simple language, and I finally know how to invest ',
     },
     {
-        name :'Anuj Yadav',
+        name :'VijayaPrakash',
         rating: 5,
         comment: 'Really helpful course! It cleared a lot of my doubts, Easy to follow and well-structured. ',
     },
